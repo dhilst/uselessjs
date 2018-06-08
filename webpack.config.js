@@ -5,7 +5,7 @@ module.exports = {
   entry: './src/useless.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'useless',
+    filename: 'useless.js',
     library: 'useless',
     libraryTarget: 'umd'
   },
