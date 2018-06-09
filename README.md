@@ -10,7 +10,7 @@ useless.js is a package that has a function that returns undefined
 
 ```js
 
-const useless = require('useless);
+const useless = require('useless');
 
 useless(); // This function should return undefined
 
