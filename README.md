@@ -20,6 +20,7 @@ It has a function named `useless` that returns undefined
 
 
 ## TODO
-
- - Support promises and async
+ 
  - Support React Native
+ - ~~Support promises and async~~
+ 
